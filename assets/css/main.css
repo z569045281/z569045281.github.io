@@ -1820,7 +1820,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		padding-left: 1em;
+		padding-left: 0em;
 	}
 
 		ul li {
@@ -2486,6 +2486,7 @@ input, select, textarea {
 			#footer .contact p {
 				text-align: center;
 				margin: 0 0 3em 0;
+				color: #a6a6a6;
 			}
 
 		#footer .copyright {

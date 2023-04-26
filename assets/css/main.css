@@ -2186,6 +2186,11 @@ input, select, textarea {
 		cursor: default;
 	}
 
+	#header #logoimage{
+		width: 25vw; 
+		border-radius: 8px;
+	}
+
 		#header:before {
 			content: '';
 			display: inline-block;
@@ -2486,7 +2491,7 @@ input, select, textarea {
 			#footer .contact p {
 				text-align: center;
 				margin: 0 0 3em 0;
-				color: #a6a6a6;
+				color: #bebebe;
 			}
 
 		#footer .copyright {
@@ -2678,6 +2683,10 @@ input, select, textarea {
 					padding-right: 2em;
 				}
 
+				
+		
+			
+
 		/* Banner */
 
 			#banner {
@@ -2732,7 +2741,11 @@ input, select, textarea {
 					width: 18em;
 					margin: 0 1em 0 0;
 				}
-
+		/* header */
+				#header #logoimage{
+					width: 50vw; 
+					border-radius: 8px;
+				}
 	}
 
 /* Mobile */

@@ -39,9 +39,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
-
-
+plugins: [jekyll-paginate]
 
 
 # Markdown settings
@@ -112,3 +110,8 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+
+
+
+gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
+    # This will require each of these gems automatically.

@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      Markdown help
+subtitle:   Markdown help
+date:       2023-08-31
+author:     Aiden
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - Markdown
+---
+
+
 # MacDown
 
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
